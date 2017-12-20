@@ -26,7 +26,7 @@ In 'Board Schematic' directory.
 	-DIP switch 1 pcs
 	
 ===== DEVELOPER =====
-Miss Chotiga Tuntagun	        5910500473
+Miss Chotiga Tuntragul	        5910500473
 Miss Pamika  Thanyacharoen	5910503766
 Department of Computer Engineering, Faculty of Engineering, Kasetsart University
 
